@@ -86,10 +86,10 @@ but there should not be any differences for any **ESP32-WROOM-32** modules.
 </p>
 
 On the following pictures you can see a battery (Li-Pol accumulator) powered ESP32 DevKitC using following hardware:
-- **ESP32-DEVKITC-32E** (cost 213 CZK/8.2 EUR/9.6 USD)
-- 220mAh Li-Pol 3.7V accumulator (weights ±5g, cost 77 CZK/3 EUR/3.5 USD)
-- MCP1702-3302ET step-down 3.3V voltage regulator (cost 11 CZK/0.42 EUR/0.50 USD)
-- Czech 5-koruna coin for scale (weights 4.8g, diameter 23 mm, cost 0.19 EUR/0.23 USD)
+- **ESP32-DEVKITC-32E** (cost 125.000 UZS/8.2 EUR/9.6 USD)
+- 220mAh Li-Pol 3.7V accumulator (weights ±5g, cost 45.000 UZS/3 EUR/3.5 USD)
+- MCP1702-3302ET step-down 3.3V voltage regulator (cost 6.000 UZS/0.42 EUR/0.50 USD)
+
 <p align="center">
     <img src="doc/images/mini.jpg" alt="Hw components" width="300">
     <img src="doc/images/mini2.jpg" alt="Hw components" width="300">
